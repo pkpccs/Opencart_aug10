@@ -1,0 +1,22 @@
+09:48:49.301 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:02:38.894 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:18:35.632 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:19:38.067 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:19:41.791 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:33:42.025 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:33:42.025 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+16:48:13.234 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+17:15:13.061 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+17:15:13.568 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+17:15:13.983 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+17:15:13.990 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+17:15:16.898 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:15:16.933 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:15:16.935 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+17:18:38.702 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+17:18:39.155 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+17:18:39.578 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+17:18:39.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+17:18:40.334 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:18:50.415 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+18:05:00.079 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
